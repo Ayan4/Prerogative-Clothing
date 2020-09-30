@@ -5,4 +5,7 @@ Full fledged landing page for Prerogative Clothing's website that has an aesthet
 
 Prerogative Clothing's website highly emphasises on my UI & UX design and website animation skills.
 This project makes use of Greensock animation library with vanilla javascript.
-![alt text](https://ihatetomatoes.net/wp-content/uploads/2016/09/img_greensock.png)
+
+### GreenSock Animation Library
+
+![### GreenSock](https://1stwebdesigner.com/wp-content/uploads/2019/11/gsap-animation-01.png)
